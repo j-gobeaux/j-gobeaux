@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects - WIP
 *(Links will be added once repositories are published)*
 
 - 🎨 **Personal Portfolio** – Showcasing my projects and skills  
